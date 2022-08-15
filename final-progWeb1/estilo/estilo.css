@@ -1,0 +1,192 @@
+* Index.html
+/
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .marginprod{
+    padding-top: 10px;
+  }
+  #indexH1{
+  margin-top: 10px;
+  }
+  .indexMargin{
+    margin-top: 20px;
+  }
+  #indexFoto {
+    
+    padding-right: 30px;
+  }
+  
+.carousel {
+    width: 100%;
+  }
+
+.item {
+  margin-top: 70px;
+}  
+
+* grid.html
+/
+.grid{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ejemplo{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.2);
+}
+
+
+
+#gray{
+  background-color:darkgray; 
+  
+
+}
+ 
+.black{
+    color: white;
+}
+
+
+
+.contacto{
+   margin-right:30px;
+}
+
+.boton{
+    margin-bottom: 70px;
+}
+
+
+.tel{
+    display: inline;
+}
+
+
+#mapa{
+  padding-left: 6px;
+
+   
+    
+}
+
+.marg{
+    margin-bottom:20px;
+    margin-top: 20px;
+
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 50px;
+    text-align: right;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+    /* Instragam */
+    .fa-instagram {
+        background: #e98b54;
+        color: white;
+      }
+
+    /* Youtube */
+    .fa-youtube {
+        background: #ac3131;
+        color: white;
+      }
+
+
+
+    
+
+
+
+.font{
+    font-weight:bold;
+}
+
+
+.letra{
+    font-weight:500;
+}
+
+
+
+
+h2{
+    
+    font-size:25px;
+   ;
+    
+    
+}
+
+h1{
+   font-family:'Lexend Deca', sans-serif;
+}
+
+
+
+
+ .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+#center{
+ text-align: center;
+}
+
+#footer {
+  
+  height: 130px;
+  
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+    
+ background-color:darkgray;
+}
